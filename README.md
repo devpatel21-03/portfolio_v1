@@ -2,11 +2,6 @@
 
 Welcome to my personal portfolio! This project showcases my skills, experience, and passion as an AI-ML Developer specializing in machine learning, artificial intelligence, and modern web development.
 
-## 🚀 Live Preview
-
-_https://devpatel.dev_
-
----
 
 ## 🚀 Recent Enhancements & Fixes
 
@@ -95,7 +90,7 @@ Make sure you have Node.js and npm installed.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/devpatel21-03/portfolio.git
+   git clone https://github.com/devpatel21-03/portfolio_v1.git
    cd portfolio
    ```
 
