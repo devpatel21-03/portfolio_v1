@@ -5,13 +5,6 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 # LIVE LINK !!
 https://portfolio-v1-gamma-five.vercel.app/   
 
-## 🚀 Recent Enhancements & Fixes
-
-- **Projects Section**: Added interactive project cards with video demos and modal popups.
-- **Performance**: Optimized animations with Framer Motion for smooth mobile experience.
-- **UI Improvements**: Fixed navigation bar visibility and scaled the Music Player widget for mobile screens.
-- **Email Integration**: Contact form powered by EmailJS for direct message delivery.
-
 ## 🛠️ Tech Stack
 
 This project is built using modern web technologies:
